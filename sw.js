@@ -1,5 +1,5 @@
 /* Naya Aaykar Kanoon — offline service worker. Compiled by CA. Dashrath Maheshwari. */
-const CACHE = 'nak-v1.0.2';
+const CACHE = 'nak-v1.0.3';
 const ASSETS = ['./', './index.html', './manifest.webmanifest', './privacy.html',
   './icons/icon-192.png', './icons/icon-512.png', './icons/maskable-192.png', './icons/maskable-512.png',
   './icons/apple-touch-icon.png', './icons/favicon-32.png'];
